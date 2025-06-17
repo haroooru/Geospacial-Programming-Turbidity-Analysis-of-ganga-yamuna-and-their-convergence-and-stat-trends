@@ -28,5 +28,19 @@ This project analyzes seasonal turbidity variation in the **Ganga–Yamuna river
 
 - 📍 **Turbidity Hotspots Align with Ghats**  
   High-NDTI zones frequently appear near major ghats like **Sangam**, **Daraganj**, and **Arail**, especially in pre-monsoon years.
+  ---
+
+## 🧾 File Descriptions
+
+| File Name                            | Description                                                                 |
+|-------------------------------------|-----------------------------------------------------------------------------|
+| `FINAL REPORT OF GEOSPACIAL PROGRAMMING.pdf` | ✅ **Full report**: Includes abstract, methodology, results, and discussion. |
+| `geospacial programming.pdf`        | 📊 Copy of final **presentation slides** (summary of report in visual form). |
+| `PRE_MONSOON_MAY.ipynb`             | 🐍 Jupyter Notebook for analyzing and visualizing **May (pre-monsoon)** turbidity. |
+| `POST_MONSOON_OCT.ipynb`            | 🐍 Jupyter Notebook for **October (post-monsoon)** turbidity and graph generation. |
+| `COMPARISON.ipynb`                  | 📈 Notebook that **compares May and October trends** (z-score, regression, visuals). |
+| `README.md`                         | 📄 This file — overview, file guide, tools used, and research summary.      |
+
+---
 
 
